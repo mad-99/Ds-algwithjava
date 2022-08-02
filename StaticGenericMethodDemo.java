@@ -5,6 +5,6 @@ class StaticGenericMethodDemo{
 	public static void main(String[] args){
 	genericPrint(101);
 	genericPrint("Joy with Java");
-	genericPrint(3.1412343);jajajjjjja
+	genericPrint(3.1412343);
 	}
 }
