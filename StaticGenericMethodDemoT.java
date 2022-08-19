@@ -7,6 +7,6 @@ System.out.println (t.getClass().getName() + ":" + t);
 public static void main(String[] args){
 genericPrint(101); // Calling generic method with integer argument
 genericPrint("Joy with Java"); // Calling generic method with String argument
-genericPrint(3.1412343); // Calling generic method with double argument 
+genericPrint(3.1412343); // Calling generic method with double argument //
 }
 }
